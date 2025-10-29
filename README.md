@@ -1,4 +1,4 @@
-# Daily Birth Forecasting — LSTM vs ARIMA
+# Daily Birth Forecasting - LSTM vs ARIMA
 
 **Short project summary**
 
